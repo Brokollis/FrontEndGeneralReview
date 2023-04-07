@@ -30,8 +30,8 @@
 
 <ul>
 	<li>Vitor Aguiar - <a href="www.linkedin.com/in/vitor-aguiar-ab3937192/">LinkedIn</a></li>
-	<li>Guilherme Tavares - @TavaresFrog</li>
-	<li>Kalany Ishihara - @Kalandri2667</li>
+	<li>Guilherme Tavares - <a href="https://github.com/TavaresFrog"> @TavaresFrog</a></li>
+	<li>Kalany Ishihara - <a href="https://github.com/Kalandri2667">@Kalandri2667</a></li>
 </ul>
 
 <h3>🚧 Em construção:</h3>
